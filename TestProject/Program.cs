@@ -23,7 +23,7 @@ else if (roll1 == roll2 && roll2 == roll3)
 Console.WriteLine($"The sum of your dice is: {sum}");
 
 // Final calculation of the score.
-if (sum > 15)
+if (sum >= 15)
 {
     Console.WriteLine("Congratulations! You won.");
 }
