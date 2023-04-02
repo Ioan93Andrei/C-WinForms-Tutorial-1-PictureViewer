@@ -1,0 +1,11 @@
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\ivana\OneDrive\Рабочий стол\CsharpProjects\TestProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
